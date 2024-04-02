@@ -8,7 +8,7 @@ Lead developer and project manager at K&K Media Group Sweden AB. Full-stack deve
 
 * 🌍  I'm based in Örebro, Sweden
 * ✉️  You can contact me at [jens.knabe@kkmedia.se](mailto:jens.knabe@kkmedia.se)
-* 🚀  I'm currently working on [FTR - Flip The Record | A new type of fanzine.](http://ftr.se)
+* 🚀  I'm currently working on [K&K RECORDS new brand guidelines & website](http://kkrecords.se)
 * 🧠  I'm learning .NET
 
 ### Skills
